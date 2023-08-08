@@ -1,2 +1,1 @@
-This is my main content project!
-Ilia hashemi Rad.
+My project about main content is here.
